@@ -1,3 +1,4 @@
+//Ques: https://codeforces.com/problemset/problem/1445/B
 #include<bits/stdc++.h>
 #define ll long long int
 #define w(t) ll t;cin>>t;while(t--)
